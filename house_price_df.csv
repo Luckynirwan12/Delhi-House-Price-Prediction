@@ -1,0 +1,869 @@
+Area,BHK,Bathroom,Furnishing,Locality,Parking,Price,Type
+750.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,5000000,Apartment
+950.0,2,2.0,Furnished,Other,1.0,15500000,Apartment
+600.0,2,2.0,Semi-Furnished,Other,1.0,4200000,Builder_Floor
+650.0,2,2.0,Semi-Furnished,Other,1.0,6200000,Builder_Floor
+1300.0,4,3.0,Semi-Furnished,Other,1.0,15500000,Builder_Floor
+1350.0,4,3.0,Semi-Furnished,Other,1.0,10000000,Builder_Floor
+650.0,2,2.0,Semi-Furnished,Other,1.0,4000000,Apartment
+985.0,3,3.0,Unfurnished,Other,1.0,6800000,Builder_Floor
+1300.0,4,4.0,Semi-Furnished,Other,1.0,15000000,Builder_Floor
+1100.0,3,2.0,Semi-Furnished,Other,1.0,6200000,Builder_Floor
+870.0,3,2.0,Semi-Furnished,Other,1.0,7700000,Builder_Floor
+630.0,2,2.0,Semi-Furnished,Other,1.0,5500000,Builder_Floor
+660.0,2,2.0,Semi-Furnished,Other,1.0,5000000,Builder_Floor
+344.4448,2,2.0,Semi-Furnished,Other,1.0,3310000,Builder_Floor
+660.0,2,2.0,Semi-Furnished,Other,1.0,4700000,Builder_Floor
+550.0,2,2.0,Semi-Furnished,Other,1.0,4500000,Builder_Floor
+1100.0,4,3.0,Semi-Furnished,Other,1.0,17000000,Builder_Floor
+1150.0,3,3.0,Semi-Furnished,Other,1.0,25000000,Apartment
+650.0,2,2.0,Semi-Furnished,Other,1.0,6000000,Builder_Floor
+850.0,2,2.0,Semi-Furnished,Other,1.0,11000000,Apartment
+900.0,3,2.0,Semi-Furnished,Other,5.0,4500000,Builder_Floor
+430.556,1,1.0,Furnished,Other,2.0,5300000,Apartment
+900.0,2,2.0,Semi-Furnished,Other,1.0,10500000,Apartment
+914.9315,2,2.0,Semi-Furnished,Other,1.0,12000000,Builder_Floor
+1100.0,3,3.0,Furnished,Other,1.0,7000000,Builder_Floor
+800.0,3,2.0,Semi-Furnished,Other,1.0,7000000,Builder_Floor
+500.0,1,1.0,Semi-Furnished,Other,1.0,3400000,Apartment
+28.0,2,2.0,Furnished,Other,1.0,5000000,Apartment
+2160.0,4,4.0,Furnished,Other,1.0,21000000,Builder_Floor
+900.0,2,2.0,Semi-Furnished,Other,2.0,13000000,Builder_Floor
+1000.0,3,3.0,Semi-Furnished,Other,1.0,22000000,Builder_Floor
+900.0,2,2.0,Semi-Furnished,Lajpat Nagar 2,1.0,15800000,Builder_Floor
+900.0,2,2.0,Unfurnished,Other,2.0,10000000,Builder_Floor
+1600.0,3,3.0,Unfurnished,Lajpat Nagar 3,2.0,30000000,Builder_Floor
+1143.0,3,3.0,Unfurnished,Other,2.0,22000000,Builder_Floor
+1150.0,3,3.0,Semi-Furnished,Other,2.0,24000000,Builder_Floor
+1500.0,3,3.0,Semi-Furnished,Lajpat Nagar 3,1.0,31500000,Builder_Floor
+850.0,2,2.0,Semi-Furnished,Lajpat Nagar 2,1.0,14600000,Builder_Floor
+890.0,2,2.0,Semi-Furnished,Other,1.0,8300000,Builder_Floor
+1100.0,3,3.0,Unfurnished,Other,1.0,22500000,Builder_Floor
+850.0,2,1.0,Semi-Furnished,Other,2.0,1900000,Apartment
+1350.0,3,2.0,Unfurnished,Other,1.0,5130000,Apartment
+1387.0,4,4.0,Unfurnished,Other,1.0,5890000,Apartment
+1050.0,3,2.0,Unfurnished,Other,1.0,3700000,Apartment
+1500.0,3,2.0,Unfurnished,Other,1.0,17400000,Apartment
+1200.0,3,3.0,Semi-Furnished,Other,1.0,15500000,Apartment
+700.0,2,1.0,Semi-Furnished,Other,1.0,2400000,Apartment
+1700.0,3,2.0,Semi-Furnished,Other,1.0,17200000,Apartment
+1550.0,3,2.0,Furnished,Other,2.0,14200000,Apartment
+1400.0,3,3.0,Semi-Furnished,Other,1.0,13500000,Apartment
+1900.0,4,4.0,Semi-Furnished,Other,1.0,30000000,Apartment
+2160.0,4,3.0,Unfurnished,Other,1.0,21000000,Apartment
+1700.0,4,3.0,Unfurnished,Other,1.0,20500000,Apartment
+1850.0,3,4.0,Semi-Furnished,Other,1.0,24000000,Apartment
+1800.0,4,2.0,Semi-Furnished,Other,1.0,16500000,Apartment
+1620.0,3,2.0,Semi-Furnished,Other,1.0,14900000,Apartment
+1800.0,4,3.0,Furnished,Other,1.0,19200000,Apartment
+1540.0,3,3.0,Semi-Furnished,Other,1.0,14500000,Apartment
+1600.0,3,3.0,Semi-Furnished,Other,1.0,15600000,Apartment
+1400.0,3,2.0,Unfurnished,Other,1.0,11400000,Apartment
+2300.0,4,4.0,Furnished,Other,1.0,31500000,Apartment
+1560.0,3,2.0,Furnished,Other,2.0,15800000,Apartment
+1500.0,3,3.0,Semi-Furnished,Other,2.0,16000000,Apartment
+1540.0,3,3.0,Semi-Furnished,Other,1.0,14500000,Apartment
+1050.0,2,2.0,Unfurnished,Other,1.0,10500000,Apartment
+1800.0,3,2.0,Semi-Furnished,Other,1.0,14800000,Apartment
+400.0,1,1.0,Semi-Furnished,Other,1.0,1850000,Builder_Floor
+1150.0,3,2.0,Semi-Furnished,Other,1.0,6800000,Builder_Floor
+1525.0,3,3.0,Semi-Furnished,Other,1.0,14200000,Apartment
+1500.0,3,3.0,Semi-Furnished,Lajpat Nagar 3,1.0,40000000,Builder_Floor
+2880.0,4,5.0,Unfurnished,Lajpat Nagar 3,1.0,46000000,Builder_Floor
+1400.0,3,3.0,Unfurnished,Lajpat Nagar 3,1.0,24500000,Builder_Floor
+1800.0,3,3.0,Unfurnished,Lajpat Nagar 3,1.0,24500000,Apartment
+1400.0,3,3.0,Semi-Furnished,Lajpat Nagar 3,1.0,32500000,Builder_Floor
+1000.0,2,2.0,Furnished,Lajpat Nagar 3,1.0,20000000,Apartment
+1000.0,2,2.0,Furnished,Lajpat Nagar 3,1.0,20000000,Apartment
+1700.0,3,3.0,Furnished,Lajpat Nagar 3,2.0,19000000,Builder_Floor
+1600.0,3,3.0,Unfurnished,Lajpat Nagar 3,2.0,26000000,Builder_Floor
+1350.0,3,3.0,Unfurnished,Lajpat Nagar 3,1.0,21000000,Builder_Floor
+1700.0,3,3.0,Semi-Furnished,Lajpat Nagar 3,1.0,27500000,Builder_Floor
+1400.0,3,3.0,Semi-Furnished,Lajpat Nagar 3,2.0,32500000,Builder_Floor
+1450.0,3,3.0,Semi-Furnished,Lajpat Nagar 3,1.0,45000000,Builder_Floor
+1350.0,3,3.0,Semi-Furnished,Lajpat Nagar 3,1.0,21000000,Builder_Floor
+1700.0,3,3.0,Unfurnished,Lajpat Nagar 3,1.0,28000000,Builder_Floor
+1600.0,3,3.0,Unfurnished,Lajpat Nagar 3,2.0,29500000,Builder_Floor
+1350.0,2,2.0,Furnished,Lajpat Nagar 2,4.0,12500000,Builder_Floor
+1500.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,2.0,26000000,Builder_Floor
+750.0,2,2.0,Semi-Furnished,Other,2.0,11500000,Builder_Floor
+850.0,2,2.0,Semi-Furnished,Lajpat Nagar 2,2.0,14600000,Builder_Floor
+1575.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,1.0,25500000,Builder_Floor
+1675.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,2.0,31000000,Builder_Floor
+1350.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,2.0,22000000,Builder_Floor
+900.0,2,2.0,Semi-Furnished,Lajpat Nagar 2,2.0,13400000,Builder_Floor
+1800.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,2.0,35000000,Builder_Floor
+900.0,2,2.0,Furnished,Lajpat Nagar 2,2.0,11000000,Builder_Floor
+900.0,2,2.0,Unfurnished,Other,2.0,6300000,Builder_Floor
+900.0,2,2.0,Furnished,Lajpat Nagar 2,2.0,12500000,Builder_Floor
+800.0,2,2.0,Unfurnished,Lajpat Nagar 2,1.0,14500000,Builder_Floor
+1100.0,2,3.0,Semi-Furnished,Lajpat Nagar 2,1.0,22500000,Builder_Floor
+810.0,2,2.0,Semi-Furnished,Lajpat Nagar 2,1.0,15500000,Builder_Floor
+1500.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,1.0,26000000,Builder_Floor
+900.0,2,2.0,Semi-Furnished,Lajpat Nagar 2,1.0,15800000,Builder_Floor
+825.0,2,2.0,Unfurnished,Lajpat Nagar 2,1.0,15000000,Builder_Floor
+900.0,2,2.0,Unfurnished,Lajpat Nagar 2,1.0,13000000,Builder_Floor
+875.0,2,2.0,Unfurnished,Lajpat Nagar 2,1.0,15000000,Builder_Floor
+1350.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,1.0,25000000,Builder_Floor
+750.0,2,2.0,Semi-Furnished,Lajpat Nagar 2,1.0,16500000,Builder_Floor
+900.0,2,2.0,Unfurnished,Lajpat Nagar 2,1.0,10300000,Builder_Floor
+1350.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,1.0,26000000,Builder_Floor
+900.0,2,2.0,Unfurnished,Lajpat Nagar 2,1.0,11000000,Builder_Floor
+1800.0,3,3.0,Unfurnished,Lajpat Nagar 2,1.0,28500000,Builder_Floor
+900.0,2,2.0,Unfurnished,Lajpat Nagar 2,1.0,11000000,Builder_Floor
+450.0,2,1.0,Unfurnished,Other,1.0,3600000,Builder_Floor
+100.0,3,2.0,Furnished,Other,1.0,4300000,Builder_Floor
+900.0,3,2.0,Semi-Furnished,Other,1.0,4000000,Builder_Floor
+500.0,2,2.0,Semi-Furnished,Other,1.0,1650000,Apartment
+450.0,1,1.0,Furnished,Other,1.0,2000000,Builder_Floor
+75.0,2,2.0,Semi-Furnished,Other,1.0,3000000,Builder_Floor
+270.0,2,1.0,Semi-Furnished,Other,1.0,1400000,Apartment
+500.0,2,1.0,Semi-Furnished,Other,1.0,2000000,Builder_Floor
+444.0,2,2.0,Unfurnished,Other,1.0,2000000,Apartment
+400.0,1,1.0,Furnished,Other,1.0,2000000,Builder_Floor
+729.0,3,4.0,Furnished,Other,1.0,2600000,Builder_Floor
+2400.0,6,4.0,Furnished,Other,1.0,6000000,Builder_Floor
+450.0,2,2.0,Furnished,Other,1.0,4000000,Builder_Floor
+405.0,2,3.0,Furnished,Other,1.0,6200000,Builder_Floor
+666.0,1,2.0,Furnished,Other,1.0,3500000,Builder_Floor
+1000.0,2,2.0,Semi-Furnished,Other,1.0,7600000,Apartment
+1360.0,4,3.0,Semi-Furnished,Other,1.0,13500000,Builder_Floor
+1550.0,4,3.0,Semi-Furnished,Other,1.0,12500000,Builder_Floor
+850.0,3,2.0,Semi-Furnished,Other,1.0,6500000,Builder_Floor
+2170.0,4,4.0,Unfurnished,Other,2.0,22000000,Builder_Floor
+720.0,3,2.0,Semi-Furnished,Other,1.0,6000000,Builder_Floor
+850.0,3,2.0,Semi-Furnished,Other,1.0,7300000,Builder_Floor
+950.0,3,2.0,Semi-Furnished,Other,1.0,7600000,Builder_Floor
+2300.0,4,4.0,Semi-Furnished,Other,1.0,20000000,Builder_Floor
+1300.0,4,4.0,Semi-Furnished,Other,1.0,15000000,Builder_Floor
+1100.0,3,2.0,Semi-Furnished,Other,1.0,6200000,Builder_Floor
+1030.0,3,2.0,Furnished,Other,1.0,6200000,Builder_Floor
+750.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,5000000,Apartment
+720.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,4700000,Apartment
+800.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,5500000,Apartment
+350.0,1,1.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,2000000,Apartment
+980.0,3,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,7300000,Apartment
+1600.0,4,3.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,13000000,Apartment
+1450.0,3,3.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,11500000,Apartment
+445.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,2800000,Apartment
+380.0,1,1.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,2200000,Apartment
+680.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,4400000,Apartment
+1600.0,3,3.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,13500000,Apartment
+630.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,4100000,Apartment
+1500.0,3,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,12000000,Apartment
+550.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,3500000,Apartment
+2500.0,4,3.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,15000000,Apartment
+2800.0,5,4.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,17500000,Apartment
+300.0,1,1.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,1900000,Apartment
+800.0,3,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,5500000,Apartment
+1295.0,3,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,10000000,Apartment
+700.0,3,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,4700000,Apartment
+350.0,1,1.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,2400000,Builder_Floor
+450.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,3800000,Builder_Floor
+2200.0,4,4.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,23000000,Builder_Floor
+2300.0,4,4.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,24500000,Builder_Floor
+1150.0,3,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,10000000,Builder_Floor
+800.0,3,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,5500000,Builder_Floor
+850.0,3,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,7000000,Builder_Floor
+720.0,3,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,6500000,Builder_Floor
+750.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,5000000,Apartment
+950.0,3,2.0,Furnished,Other,1.0,4370000,Apartment
+1000.0,3,2.0,Unfurnished,Other,1.0,4620000,Apartment
+850.0,2,1.0,Semi-Furnished,Other,1.0,1900000,Apartment
+1350.0,3,2.0,Unfurnished,Other,1.0,5130000,Apartment
+540.0,2,2.0,Semi-Furnished,Other,1.0,3000000,Apartment
+1387.0,4,4.0,Unfurnished,Other,1.0,5890000,Apartment
+540.0,2,2.0,Semi-Furnished,Other,1.0,3300000,Apartment
+976.0,2,2.0,Furnished,Other,1.0,24900000,Apartment
+1050.0,3,2.0,Unfurnished,Other,1.0,3700000,Apartment
+1500.0,3,2.0,Unfurnished,Other,1.0,17400000,Apartment
+1000.0,3,2.0,Semi-Furnished,Other,1.0,5510000,Builder_Floor
+1135.0,3,3.0,Furnished,"The Amaryllis, Karol Bagh",2.0,25000000,Apartment
+850.0,2,2.0,Semi-Furnished,Other,1.0,2940000,Apartment
+1200.0,3,3.0,Semi-Furnished,Other,1.0,15500000,Apartment
+1700.0,3,2.0,Semi-Furnished,Other,1.0,17200000,Apartment
+1100.0,2,2.0,Semi-Furnished,Other,1.0,15000000,Apartment
+1550.0,4,3.0,Semi-Furnished,Other,1.0,13000000,Builder_Floor
+1600.0,3,3.0,Semi-Furnished,Other,1.0,30000000,Builder_Floor
+700.0,2,2.0,Semi-Furnished,Other,1.0,2400000,Builder_Floor
+45.0,4,3.0,Unfurnished,Other,1.0,5500000,Builder_Floor
+1700.0,3,3.0,Semi-Furnished,Other,2.0,38500000,Builder_Floor
+2500.0,3,3.0,Semi-Furnished,Other,2.0,50000000,Apartment
+1600.0,3,3.0,Semi-Furnished,New Friends Colony,2.0,40000000,Apartment
+2200.0,4,4.0,Semi-Furnished,Other,2.0,50000000,Builder_Floor
+2070.0,3,3.0,Semi-Furnished,Other,2.0,37500000,Builder_Floor
+2800.0,6,4.0,Semi-Furnished,Other,2.0,29500000,Apartment
+1400.0,3,3.0,Semi-Furnished,New Friends Colony,2.0,50000000,Builder_Floor
+2200.0,4,4.0,Semi-Furnished,"Kailash Colony, Greater Kailash",2.0,47500000,Builder_Floor
+2200.0,4,4.0,Semi-Furnished,"Kailash Colony, Greater Kailash",1.0,40000000,Builder_Floor
+1440.0,3,3.0,Semi-Furnished,"Kailash Colony, Greater Kailash",3.0,26000000,Builder_Floor
+900.0,2,2.0,Semi-Furnished,"Kailash Colony, Greater Kailash",3.0,20000000,Builder_Floor
+1200.0,3,2.0,Semi-Furnished,"Kailash Colony, Greater Kailash",3.0,17000000,Builder_Floor
+2799.0,4,4.0,Semi-Furnished,"Kailash Colony, Greater Kailash",2.0,43000000,Builder_Floor
+1350.0,3,3.0,Unfurnished,"Kailash Colony, Greater Kailash",1.0,26000000,Builder_Floor
+1200.0,3,3.0,Unfurnished,"Kailash Colony, Greater Kailash",1.0,25000000,Builder_Floor
+1500.0,3,3.0,Semi-Furnished,"Kailash Colony, Greater Kailash",2.0,40000000,Builder_Floor
+1600.0,3,3.0,Unfurnished,"Kailash Colony, Greater Kailash",1.0,22500000,Builder_Floor
+2150.0,4,4.0,Unfurnished,"Kailash Colony, Greater Kailash",2.0,45000000,Builder_Floor
+1150.0,3,3.0,Semi-Furnished,"Kailash Colony, Greater Kailash",1.0,25500000,Builder_Floor
+1240.0,3,3.0,Unfurnished,"Kailash Colony, Greater Kailash",2.0,26500000,Builder_Floor
+1000.0,2,2.0,Unfurnished,"Kailash Colony, Greater Kailash",1.0,15000000,Builder_Floor
+1150.0,3,3.0,Semi-Furnished,"Kailash Colony, Greater Kailash",2.0,26000000,Builder_Floor
+2000.0,4,4.0,Semi-Furnished,"Kailash Colony, Greater Kailash",2.0,38000000,Builder_Floor
+1425.0,3,3.0,Semi-Furnished,Other,1.0,9300000,Builder_Floor
+440.0,2,2.0,Unfurnished,Other,1.0,2700000,Apartment
+1017.0,2,2.0,Furnished,Other,1.0,6500000,Builder_Floor
+650.0,2,2.0,Semi-Furnished,Other,1.0,5800000,Apartment
+950.0,3,2.0,Semi-Furnished,Other,1.0,5500000,Apartment
+810.0,3,2.0,Semi-Furnished,"Yamuna Vihar, Shahdara",1.0,6000000,Builder_Floor
+750.0,2,2.0,Unfurnished,Other,1.0,4500000,Builder_Floor
+990.0,2,2.0,Semi-Furnished,Other,2.0,4100000,Builder_Floor
+800.0,3,2.0,Semi-Furnished,Other,2.0,3800000,Builder_Floor
+675.0,2,1.0,Unfurnished,Other,1.0,3300000,Apartment
+558.0,2,1.0,Unfurnished,Other,1.0,2900000,Builder_Floor
+445.0,2,1.0,Unfurnished,Other,1.0,2000000,Builder_Floor
+360.0,2,1.0,Unfurnished,Other,1.0,1550000,Builder_Floor
+1350.0,4,3.0,Semi-Furnished,Other,1.0,11300000,Builder_Floor
+850.0,3,2.0,Semi-Furnished,Other,1.0,4500000,Builder_Floor
+846.0,2,1.0,Unfurnished,Other,1.0,3300000,Apartment
+1300.0,4,3.0,Furnished,Other,1.0,11500000,Builder_Floor
+900.0,3,2.0,Semi-Furnished,Other,1.0,6000000,Builder_Floor
+1050.0,3,2.0,Semi-Furnished,Other,1.0,9000000,Apartment
+850.0,2,2.0,Furnished,Other,1.0,4500000,Builder_Floor
+1650.0,4,3.0,Furnished,Other,1.0,14000000,Apartment
+1150.0,2,2.0,Semi-Furnished,Other,1.0,7300000,Apartment
+495.1394,1,1.0,Furnished,Other,1.0,1900000,Builder_Floor
+1053.0,3,2.0,Furnished,Other,4.0,7000000,Builder_Floor
+540.0,2,1.0,Furnished,"Yamuna Vihar, Shahdara",1.0,2700000,Apartment
+747.0,2,2.0,Furnished,"Yamuna Vihar, Shahdara",1.0,6500000,Builder_Floor
+720.0,2,1.0,Unfurnished,"Yamuna Vihar, Shahdara",1.0,4000000,Builder_Floor
+376.7365,1,1.0,Semi-Furnished,"Yamuna Vihar, Shahdara",1.0,3000000,Apartment
+1125.0,2,2.0,Unfurnished,"Yamuna Vihar, Shahdara",1.0,5000000,Builder_Floor
+713.0,2,2.0,Semi-Furnished,"Yamuna Vihar, Shahdara",1.0,6000000,Builder_Floor
+360.0,1,1.0,Unfurnished,"Yamuna Vihar, Shahdara",1.0,2500000,Builder_Floor
+900.0,2,2.0,Semi-Furnished,"Yamuna Vihar, Shahdara",1.0,6500000,Apartment
+713.0,3,1.0,Unfurnished,"Yamuna Vihar, Shahdara",1.0,8000000,Apartment
+504.0,2,1.0,Furnished,"Yamuna Vihar, Shahdara",1.0,2700000,Builder_Floor
+70.0,1,2.0,Unfurnished,"Yamuna Vihar, Shahdara",1.0,4500000,Apartment
+850.0,3,2.0,Furnished,"Yamuna Vihar, Shahdara",1.0,5700000,Builder_Floor
+2430.0,4,3.0,Furnished,"Yamuna Vihar, Shahdara",1.0,25000000,Builder_Floor
+2970.0,7,4.0,Furnished,"Yamuna Vihar, Shahdara",1.0,26500000,Builder_Floor
+2250.0,3,2.0,Furnished,"Yamuna Vihar, Shahdara",1.0,18500000,Builder_Floor
+1500.0,5,3.0,Furnished,"Yamuna Vihar, Shahdara",1.0,30000000,Builder_Floor
+1512.0,2,2.0,Furnished,"Yamuna Vihar, Shahdara",1.0,22000000,Builder_Floor
+400.0,2,2.0,Furnished,Other,1.0,9000000,Builder_Floor
+630.0,3,2.0,Furnished,"Yamuna Vihar, Shahdara",1.0,22500000,Builder_Floor
+324.0,6,3.0,Furnished,"Yamuna Vihar, Shahdara",1.0,8700000,Builder_Floor
+720.0,6,5.0,Furnished,"Yamuna Vihar, Shahdara",1.0,22000000,Builder_Floor
+675.0,4,2.0,Furnished,"Yamuna Vihar, Shahdara",2.0,18500000,Builder_Floor
+700.0,2,1.0,Furnished,"Yamuna Vihar, Shahdara",2.0,16000000,Builder_Floor
+675.0,4,3.0,Furnished,"Yamuna Vihar, Shahdara",2.0,16000000,Builder_Floor
+720.0,4,2.0,Furnished,"Yamuna Vihar, Shahdara",2.0,9000000,Builder_Floor
+850.0,2,2.0,Furnished,Other,1.0,4500000,Builder_Floor
+990.0,3,2.0,Unfurnished,Laxmi Nagar,1.0,4000000,Apartment
+420.0,2,1.0,Semi-Furnished,Laxmi Nagar,1.0,2600000,Builder_Floor
+450.0,2,1.0,Semi-Furnished,Laxmi Nagar,1.0,3500000,Builder_Floor
+1000.0,2,2.0,Unfurnished,Laxmi Nagar,1.0,7500000,Apartment
+900.0,3,2.0,Semi-Furnished,Laxmi Nagar,1.0,7000000,Builder_Floor
+800.0,3,2.0,Semi-Furnished,Laxmi Nagar,1.0,4500000,Builder_Floor
+720.0,3,3.0,Semi-Furnished,Laxmi Nagar,2.0,5500000,Builder_Floor
+450.0,2,1.0,Semi-Furnished,Laxmi Nagar,2.0,2700000,Builder_Floor
+675.0,2,2.0,Furnished,Laxmi Nagar,2.0,2400000,Builder_Floor
+1700.0,4,3.0,Unfurnished,Laxmi Nagar,2.0,11500000,Builder_Floor
+550.0,2,2.0,Unfurnished,Other,2.0,3600000,Builder_Floor
+387.0,1,2.0,Unfurnished,Other,2.0,1700000,Builder_Floor
+450.0,2,1.0,Unfurnished,Other,2.0,2500000,Apartment
+900.0,4,2.0,Furnished,Laxmi Nagar,1.0,6600000,Builder_Floor
+500.0,2,1.0,Semi-Furnished,Laxmi Nagar,1.0,3700000,Builder_Floor
+441.0,2,1.0,Unfurnished,Other,1.0,3500000,Apartment
+800.0,3,2.0,Semi-Furnished,Other,1.0,5400000,Builder_Floor
+450.0,2,2.0,Semi-Furnished,Other,1.0,2550000,Builder_Floor
+1000.0,3,3.0,Furnished,Other,1.0,12500000,Builder_Floor
+715.0,2,2.0,Unfurnished,Laxmi Nagar,1.0,5600000,Apartment
+600.0,2,2.0,Unfurnished,Laxmi Nagar,1.0,7000000,Builder_Floor
+540.0,2,1.0,Unfurnished,Laxmi Nagar,1.0,3500000,Builder_Floor
+312.0,4,4.0,Furnished,Other,1.0,35000000,Apartment
+810.0,3,2.0,Semi-Furnished,Laxmi Nagar,1.0,9000000,Builder_Floor
+270.0,1,1.0,Semi-Furnished,Other,1.0,2300000,Builder_Floor
+900.0,3,2.0,Semi-Furnished,Laxmi Nagar,1.0,6000000,Builder_Floor
+1000.0,3,2.0,Unfurnished,Laxmi Nagar,1.0,6000000,Apartment
+950.0,3,2.0,Furnished,Other,1.0,4370000,Apartment
+1000.0,3,2.0,Unfurnished,Other,1.0,4620000,Apartment
+540.0,2,2.0,Semi-Furnished,Other,1.0,3000000,Apartment
+540.0,2,2.0,Semi-Furnished,Other,1.0,3300000,Apartment
+1000.0,3,2.0,Semi-Furnished,Other,1.0,5510000,Builder_Floor
+500.0,2,2.0,Semi-Furnished,Other,1.0,3200000,Builder_Floor
+540.0,2,2.0,Semi-Furnished,Other,1.0,2600000,Builder_Floor
+780.0,3,2.0,Semi-Furnished,Other,1.0,4000000,Builder_Floor
+450.0,2,1.0,Semi-Furnished,Other,1.0,1850000,Builder_Floor
+360.0,1,1.0,Semi-Furnished,Other,1.0,1700000,Builder_Floor
+900.0,3,2.0,Semi-Furnished,Other,1.0,2800000,Builder_Floor
+495.0,2,2.0,Semi-Furnished,Other,1.0,2150000,Builder_Floor
+1200.0,4,3.0,Semi-Furnished,Other,1.0,6800000,Builder_Floor
+1000.0,3,2.0,Semi-Furnished,Other,1.0,6200000,Builder_Floor
+620.0,2,2.0,Semi-Furnished,Other,1.0,3100000,Builder_Floor
+680.0,3,2.0,Semi-Furnished,Other,1.0,3400000,Builder_Floor
+805.0,2,2.0,Unfurnished,Other,1.0,4000000,Builder_Floor
+729.0,2,2.0,Semi-Furnished,Other,1.0,4800000,Builder_Floor
+540.0,2,2.0,Semi-Furnished,Other,1.0,2500000,Builder_Floor
+360.0,1,1.0,Semi-Furnished,Other,1.0,2000000,Builder_Floor
+550.0,2,2.0,Semi-Furnished,Other,1.0,1900000,Builder_Floor
+1001.0,3,2.0,Furnished,Other,1.0,5800000,Builder_Floor
+450.0,2,2.0,Unfurnished,Other,1.0,2900000,Builder_Floor
+550.0,2,1.0,Semi-Furnished,Other,1.0,2000000,Builder_Floor
+550.0,2,2.0,Semi-Furnished,Other,1.0,2600000,Builder_Floor
+675.0,2,1.0,Unfurnished,Other,1.0,2900000,Builder_Floor
+585.0,2,2.0,Unfurnished,Other,1.0,3200000,Builder_Floor
+810.0,3,2.0,Semi-Furnished,Other,1.0,5400000,Builder_Floor
+765.0,3,2.0,Semi-Furnished,Other,1.0,3800000,Builder_Floor
+70.0,2,3.0,Furnished,Other,1.0,8200000,Builder_Floor
+800.0,3,2.0,Unfurnished,Patel Nagar West,1.0,8000000,Builder_Floor
+900.0,3,2.0,Semi-Furnished,Patel Nagar West,1.0,9500000,Builder_Floor
+1680.0,4,5.0,Semi-Furnished,Patel Nagar West,1.0,20000000,Builder_Floor
+900.0,2,2.0,Furnished,Patel Nagar West,3.0,7400000,Builder_Floor
+2000.0,3,3.0,Semi-Furnished,Other,1.0,37500000,Apartment
+2000.0,4,4.0,Semi-Furnished,Patel Nagar West,3.0,15000000,Builder_Floor
+1530.0,3,3.0,Semi-Furnished,Other,2.0,26500000,Builder_Floor
+100.0,3,2.0,Semi-Furnished,Other,2.0,16000000,Apartment
+900.0,3,2.0,Furnished,Patel Nagar West,2.0,10400000,Builder_Floor
+270.0,1,1.0,Unfurnished,Patel Nagar West,2.0,1700000,Builder_Floor
+950.0,2,2.0,Semi-Furnished,Patel Nagar West,2.0,8000000,Builder_Floor
+1800.0,3,3.0,Semi-Furnished,Other,2.0,27000000,Builder_Floor
+1500.0,3,3.0,Semi-Furnished,Patel Nagar West,2.0,19500000,Builder_Floor
+1800.0,3,3.0,Furnished,Other,3.0,50000000,Apartment
+1800.0,3,3.0,Unfurnished,Patel Nagar West,3.0,21100000,Builder_Floor
+850.0,2,3.0,Semi-Furnished,Patel Nagar West,1.0,5900000,Builder_Floor
+140.0,3,2.0,Unfurnished,Other,1.0,12000000,Builder_Floor
+900.0,3,2.0,Unfurnished,Patel Nagar West,1.0,12000000,Builder_Floor
+1800.0,3,3.0,Unfurnished,Patel Nagar West,1.0,24000000,Apartment
+200.0,1,1.0,Semi-Furnished,Other,1.0,7000000,Apartment
+1782.0,3,3.0,Semi-Furnished,Other,1.0,15000000,Apartment
+900.0,2,2.0,Furnished,Other,1.0,1500000,Builder_Floor
+405.0,2,1.0,Semi-Furnished,Patel Nagar West,1.0,3950000,Apartment
+1500.0,3,3.0,Unfurnished,Patel Nagar West,1.0,12500000,Builder_Floor
+66.0,3,1.0,Unfurnished,Other,1.0,1600000,Apartment
+2000.0,3,3.0,Unfurnished,Other,1.0,31000000,Apartment
+650.0,1,2.0,Semi-Furnished,Other,1.0,7400000,Apartment
+1100.0,2,2.0,Unfurnished,Other,1.0,15500000,Apartment
+1075.0,2,2.0,Semi-Furnished,Other,2.0,12000000,Apartment
+1450.0,3,2.0,Semi-Furnished,Other,2.0,23500000,Apartment
+1200.0,3,2.0,Semi-Furnished,Other,2.0,25000000,Apartment
+600.0,1,2.0,Unfurnished,Other,2.0,7000000,Apartment
+1000.0,2,2.0,Unfurnished,Other,1.0,17500000,Apartment
+1600.0,3,2.0,Semi-Furnished,Other,1.0,25000000,Apartment
+1750.0,4,4.0,Unfurnished,Other,1.0,29000000,Apartment
+1300.0,3,3.0,Semi-Furnished,Other,1.0,21900000,Apartment
+550.0,1,2.0,Furnished,Other,1.0,7500000,Apartment
+2200.0,4,3.0,Semi-Furnished,Other,2.0,23500000,Apartment
+1100.0,2,2.0,Semi-Furnished,Other,2.0,24000000,Apartment
+1700.0,3,2.0,Semi-Furnished,Other,2.0,31000000,Builder_Floor
+1100.0,2,2.0,Semi-Furnished,Other,3.0,16500000,Apartment
+1000.0,2,2.0,Furnished,Other,1.0,5000000,Builder_Floor
+1350.0,3,2.0,Furnished,Other,1.0,24000000,Apartment
+1184.0,2,2.0,Semi-Furnished,Other,1.0,17000000,Apartment
+2000.0,4,2.0,Furnished,Other,1.0,40000000,Apartment
+900.0,3,3.0,Furnished,Other,2.0,20000000,Builder_Floor
+750.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,5000000,Apartment
+950.0,3,2.0,Furnished,Other,1.0,4370000,Apartment
+1000.0,3,2.0,Unfurnished,Other,1.0,4620000,Apartment
+850.0,2,1.0,Semi-Furnished,Other,1.0,1900000,Apartment
+1350.0,3,2.0,Unfurnished,Other,1.0,5130000,Apartment
+540.0,2,2.0,Semi-Furnished,Other,1.0,3000000,Apartment
+1387.0,4,4.0,Unfurnished,Other,1.0,5890000,Apartment
+540.0,2,2.0,Semi-Furnished,Other,1.0,3300000,Apartment
+976.0,2,2.0,Furnished,Other,1.0,24900000,Apartment
+1050.0,3,2.0,Unfurnished,Other,1.0,3700000,Apartment
+1500.0,3,2.0,Unfurnished,Other,1.0,17400000,Apartment
+1000.0,3,2.0,Semi-Furnished,Other,1.0,5510000,Builder_Floor
+1135.0,3,3.0,Furnished,"The Amaryllis, Karol Bagh",2.0,25000000,Apartment
+850.0,2,2.0,Semi-Furnished,Other,1.0,2940000,Apartment
+1200.0,3,3.0,Semi-Furnished,Other,1.0,15500000,Apartment
+1700.0,3,2.0,Semi-Furnished,Other,1.0,17200000,Apartment
+1100.0,2,2.0,Semi-Furnished,Other,1.0,15000000,Apartment
+1550.0,4,3.0,Semi-Furnished,Other,1.0,13000000,Builder_Floor
+1600.0,3,3.0,Semi-Furnished,Other,1.0,30000000,Builder_Floor
+700.0,2,2.0,Semi-Furnished,Other,1.0,2400000,Builder_Floor
+45.0,4,3.0,Unfurnished,Other,1.0,5500000,Builder_Floor
+1750.0,4,4.0,Unfurnished,Other,1.0,29000000,Apartment
+2210.0,4,3.0,Semi-Furnished,"Sukhdev Vihar, Okhla",1.0,41000000,Builder_Floor
+760.0,3,2.0,Furnished,Other,1.0,6000000,Builder_Floor
+400.0,2,1.0,Furnished,Other,1.0,2500000,Apartment
+380.0,1,1.0,Unfurnished,Other,1.0,2200000,Builder_Floor
+904.1676,2,2.0,Furnished,Other,1.0,21500000,Apartment
+900.0,4,1.0,Furnished,Other,1.0,15000000,Apartment
+810.0,5,6.0,Furnished,Other,1.0,28900000,Apartment
+100.0,3,2.0,Unfurnished,Other,1.0,5500000,Builder_Floor
+50.0,2,1.0,Semi-Furnished,Other,1.0,1950000,Apartment
+58.0,2,1.0,Unfurnished,Other,1.0,3800000,Apartment
+900.0,2,1.0,Semi-Furnished,Other,1.0,6200000,Builder_Floor
+1650.0,4,3.0,Furnished,Other,1.0,14000000,Apartment
+1000.0,2,2.0,Unfurnished,Laxmi Nagar,1.0,7500000,Apartment
+852.0,2,2.0,Unfurnished,Other,1.0,2670000,Apartment
+700.0,2,2.0,Semi-Furnished,Other,1.0,2500000,Apartment
+990.0,3,2.0,Unfurnished,Laxmi Nagar,1.0,4000000,Apartment
+450.0,2,1.0,Semi-Furnished,Laxmi Nagar,1.0,3500000,Builder_Floor
+1000.0,2,2.0,Unfurnished,Laxmi Nagar,1.0,5000000,Apartment
+1700.0,4,3.0,Semi-Furnished,Saket,2.0,29500000,Builder_Floor
+1350.0,3,2.0,Unfurnished,Other,1.0,19000000,Builder_Floor
+2100.0,4,3.0,Furnished,Saket,1.0,25500000,Apartment
+1450.0,3,3.0,Semi-Furnished,Other,1.0,34000000,Builder_Floor
+2050.0,4,4.0,Semi-Furnished,Saket,1.0,47500000,Builder_Floor
+1800.0,3,3.0,Semi-Furnished,Other,2.0,23000000,Apartment
+900.0,3,2.0,Semi-Furnished,Other,1.0,24000000,Apartment
+1500.0,3,2.0,Semi-Furnished,Other,2.0,21500000,Apartment
+1500.0,3,2.0,Semi-Furnished,Saket,1.0,28500000,Builder_Floor
+1800.0,4,4.0,Semi-Furnished,Other,1.0,12500000,Builder_Floor
+1674.0,3,3.0,Unfurnished,Saket,1.0,45000000,Builder_Floor
+2025.0,4,3.0,Furnished,Saket,2.0,30500000,Builder_Floor
+1300.0,3,3.0,Semi-Furnished,Saket,3.0,22500000,Builder_Floor
+990.0,3,3.0,Furnished,Other,1.0,28000000,Apartment
+2100.0,3,4.0,Semi-Furnished,Saket,2.0,25000000,Builder_Floor
+2250.0,4,4.0,Semi-Furnished,Saket,2.0,33700000,Builder_Floor
+1500.0,3,3.0,Semi-Furnished,Saket,1.0,27000000,Builder_Floor
+2700.0,4,4.0,Semi-Furnished,Saket,2.0,43500000,Builder_Floor
+1700.0,3,3.0,Semi-Furnished,Other,2.0,29000000,Builder_Floor
+1700.0,3,3.0,Semi-Furnished,Saket,2.0,30000000,Builder_Floor
+1800.0,3,3.0,Unfurnished,Saket,1.0,32500000,Builder_Floor
+1500.0,3,2.0,Semi-Furnished,Saket,1.0,20500000,Apartment
+2000.0,4,3.0,Semi-Furnished,Saket,1.0,25000000,Apartment
+1500.0,3,3.0,Semi-Furnished,Saket,2.0,30000000,Builder_Floor
+2475.0,4,4.0,Semi-Furnished,Saket,1.0,31000000,Builder_Floor
+1500.0,3,3.0,Semi-Furnished,Safdarjung Enclave,4.0,37500000,Builder_Floor
+1100.0,2,2.0,Unfurnished,Safdarjung Enclave,1.0,16300000,Apartment
+1100.0,3,3.0,Unfurnished,Other,1.0,25000000,Builder_Floor
+1550.0,3,3.0,Semi-Furnished,Safdarjung Enclave,1.0,38000000,Builder_Floor
+700.0,2,2.0,Unfurnished,Safdarjung Enclave,1.0,15000000,Builder_Floor
+150.0,2,1.0,Semi-Furnished,Other,1.0,2000000,Apartment
+540.0,1,1.0,Unfurnished,Other,1.0,3000000,Builder_Floor
+810.0,2,2.0,Semi-Furnished,Other,1.0,8500000,Builder_Floor
+1600.0,3,3.0,Semi-Furnished,Safdarjung Enclave,2.0,22500000,Builder_Floor
+900.0,3,3.0,Semi-Furnished,Other,1.0,12500000,Builder_Floor
+972.0,2,2.0,Semi-Furnished,Safdarjung Enclave,1.0,17000000,Apartment
+1650.0,3,3.0,Semi-Furnished,Safdarjung Enclave,1.0,35000000,Builder_Floor
+2610.0,4,4.0,Semi-Furnished,Other,2.0,42500000,Builder_Floor
+600.0,2,2.0,Semi-Furnished,Other,1.0,4700000,Builder_Floor
+880.0,3,2.0,Unfurnished,Other,1.0,11000000,Builder_Floor
+1450.0,3,3.0,Semi-Furnished,Other,1.0,37500000,Builder_Floor
+1800.0,3,2.0,Unfurnished,Other,1.0,26500000,Builder_Floor
+780.0,2,2.0,Unfurnished,Other,1.0,8770000,Builder_Floor
+405.0,1,1.0,Semi-Furnished,Other,1.0,4500000,Apartment
+900.0,2,3.0,Semi-Furnished,Other,1.0,8500000,Apartment
+807.2925,2,2.0,Unfurnished,Other,1.0,8600000,Apartment
+2700.0,4,3.0,Semi-Furnished,Other,1.0,42500000,Builder_Floor
+1100.0,3,2.0,Semi-Furnished,Other,2.0,13100000,Apartment
+585.0,2,2.0,Unfurnished,Other,2.0,7000000,Apartment
+2152.78,3,3.0,Furnished,Other,2.0,30000000,Builder_Floor
+960.0,2,2.0,Semi-Furnished,Other,2.0,13000000,Apartment
+1800.0,4,3.0,Unfurnished,Other,2.0,23100000,Builder_Floor
+1100.0,3,2.0,Semi-Furnished,Other,1.0,16000000,Apartment
+900.0,2,2.0,Unfurnished,Other,1.0,12500000,Builder_Floor
+1620.0,3,3.0,Furnished,Other,1.0,24500000,Builder_Floor
+378.0,1,1.0,Unfurnished,Other,1.0,3200000,Apartment
+800.0,3,2.0,Unfurnished,Other,1.0,6300000,Apartment
+1350.0,3,3.0,Semi-Furnished,Other,1.0,15000000,Builder_Floor
+850.0,3,3.0,Unfurnished,Other,1.0,5700000,Apartment
+1580.0,3,2.0,Furnished,Other,1.0,21000000,Apartment
+820.0,2,3.0,Unfurnished,Other,1.0,7500000,Apartment
+594.0,2,1.0,Semi-Furnished,Other,1.0,6500000,Apartment
+800.0,3,2.0,Unfurnished,Other,1.0,12000000,Builder_Floor
+1500.0,3,2.0,Semi-Furnished,Other,2.0,18000000,Apartment
+1000.0,2,2.0,Semi-Furnished,Other,1.0,10700000,Apartment
+1500.0,3,2.0,Furnished,Other,1.0,16200000,Apartment
+1700.0,3,2.0,Furnished,Other,1.0,16500000,Apartment
+1750.0,3,2.0,Furnished,Other,1.0,14900000,Apartment
+2700.0,4,3.0,Furnished,Other,1.0,27500000,Apartment
+1500.0,3,3.0,Semi-Furnished,Other,3.0,35500000,Apartment
+2105.0,3,3.0,Unfurnished,"Common Wealth Games Village, Commonwealth Games Village 2010",3.0,42100000,Apartment
+2500.0,4,5.0,Semi-Furnished,Other,3.0,42500000,Apartment
+2090.0,3,4.0,Semi-Furnished,"Common Wealth Games Village, Commonwealth Games Village 2010",2.0,44000000,Apartment
+2525.0,4,5.0,Semi-Furnished,Other,3.0,43200000,Apartment
+2100.0,3,4.0,Furnished,"Common Wealth Games Village, Commonwealth Games Village 2010",2.0,34300000,Apartment
+2022.0,3,3.0,Semi-Furnished,Other,2.0,38000000,Apartment
+1850.0,3,3.0,Unfurnished,"Common Wealth Games Village, Commonwealth Games Village 2010",2.0,37500000,Apartment
+2100.0,3,3.0,Semi-Furnished,"Common Wealth Games Village, Commonwealth Games Village 2010",2.0,37000000,Apartment
+1700.0,3,4.0,Semi-Furnished,Other,2.0,40000000,Apartment
+2105.0,3,3.0,Semi-Furnished,"Common Wealth Games Village, Commonwealth Games Village 2010",2.0,36200000,Apartment
+1250.0,2,3.0,Semi-Furnished,"Common Wealth Games Village, Commonwealth Games Village 2010",1.0,29000000,Apartment
+2552.0,4,5.0,Furnished,Other,3.0,42500000,Apartment
+2125.0,3,3.0,Semi-Furnished,Other,2.0,36500000,Apartment
+2065.0,3,4.0,Semi-Furnished,"Common Wealth Games Village, Commonwealth Games Village 2010",2.0,42500000,Apartment
+1455.0,2,2.0,Semi-Furnished,Other,2.0,27500000,Apartment
+1400.0,2,3.0,Unfurnished,"Common Wealth Games Village, Commonwealth Games Village 2010",3.0,28600000,Apartment
+2126.0,3,3.0,Semi-Furnished,"Common Wealth Games Village, Commonwealth Games Village 2010",2.0,39000000,Apartment
+1815.0,3,3.0,Semi-Furnished,Other,2.0,32500000,Apartment
+1700.0,3,3.0,Unfurnished,Other,2.0,34000000,Apartment
+1600.0,3,3.0,Semi-Furnished,Other,2.0,20000000,Apartment
+1400.0,3,3.0,Furnished,Other,1.0,18000000,Apartment
+1400.0,3,2.0,Unfurnished,Alaknanda,1.0,19000000,Apartment
+2700.0,4,4.0,Unfurnished,Other,2.0,36500000,Builder_Floor
+1100.0,2,2.0,Unfurnished,Alaknanda,2.0,15000000,Apartment
+1200.0,2,2.0,Semi-Furnished,Alaknanda,2.0,17500000,Apartment
+1400.0,2,2.0,Semi-Furnished,Alaknanda,2.0,14000000,Apartment
+1500.0,3,3.0,Semi-Furnished,Other,2.0,21000000,Apartment
+1320.0,3,2.0,Unfurnished,Alaknanda,2.0,15600000,Apartment
+1300.0,3,3.0,Unfurnished,Other,2.0,19000000,Apartment
+1150.0,2,2.0,Unfurnished,Other,1.0,16500000,Apartment
+1440.0,3,3.0,Unfurnished,Alaknanda,1.0,19000000,Apartment
+1400.0,2,2.0,Unfurnished,Other,1.0,16500000,Apartment
+450.0,1,1.0,Semi-Furnished,Alaknanda,1.0,3000000,Builder_Floor
+1300.0,2,2.0,Semi-Furnished,Other,1.0,15000000,Apartment
+1200.0,2,2.0,Unfurnished,Other,1.0,14300000,Apartment
+1300.0,3,2.0,Unfurnished,Other,1.0,18500000,Apartment
+1400.0,3,3.0,Furnished,Other,1.0,19000000,Apartment
+1400.0,3,3.0,Semi-Furnished,Alaknanda,1.0,19000000,Apartment
+1800.0,4,4.0,Furnished,Other,2.0,12000000,Apartment
+1300.0,3,3.0,Furnished,Other,1.0,20000000,Apartment
+1150.0,2,2.0,Unfurnished,Other,1.0,13500000,Apartment
+1500.0,3,2.0,Unfurnished,Other,1.0,14000000,Apartment
+1150.0,2,2.0,Semi-Furnished,Other,2.0,10800000,Apartment
+450.0,1,1.0,Semi-Furnished,Other,1.0,2350000,Apartment
+1350.0,3,3.0,Semi-Furnished,Other,1.0,8500000,Apartment
+445.0,1,2.0,Semi-Furnished,Other,1.0,1650000,Apartment
+1200.0,2,2.0,Semi-Furnished,Other,1.0,10000000,Apartment
+50.0,1,1.0,Unfurnished,Other,1.0,1500000,Builder_Floor
+1100.0,2,2.0,Semi-Furnished,Other,1.0,2800000,Builder_Floor
+700.0,2,2.0,Semi-Furnished,Other,1.0,2600000,Builder_Floor
+500.0,1,1.0,Furnished,Other,1.0,2350000,Builder_Floor
+540.0,1,1.0,Unfurnished,Other,1.0,2350000,Apartment
+450.0,1,1.0,Unfurnished,Other,1.0,2000000,Builder_Floor
+800.0,2,2.0,Semi-Furnished,Other,1.0,5000000,Builder_Floor
+700.0,2,2.0,Semi-Furnished,Other,1.0,3500000,Builder_Floor
+750.0,2,2.0,Semi-Furnished,Other,1.0,4500000,Builder_Floor
+750.0,2,2.0,Unfurnished,Other,1.0,4000000,Builder_Floor
+1600.0,3,3.0,Unfurnished,Other,1.0,10800000,Builder_Floor
+1000.0,3,2.0,Unfurnished,Other,1.0,10000000,Builder_Floor
+1600.0,3,3.0,Unfurnished,Other,1.0,10800000,Builder_Floor
+900.0,3,2.0,Semi-Furnished,Other,1.0,9000000,Builder_Floor
+1700.0,3,3.0,Semi-Furnished,Other,1.0,8500000,Apartment
+1100.0,3,2.0,Semi-Furnished,Other,1.0,6000000,Builder_Floor
+1000.0,3,3.0,Semi-Furnished,Other,1.0,5500000,Apartment
+1000.0,3,2.0,Semi-Furnished,Other,1.0,7000000,Builder_Floor
+1100.0,3,2.0,Furnished,Other,1.0,6000000,Apartment
+765.0,3,2.0,Unfurnished,Other,1.0,3700000,Builder_Floor
+900.0,2,2.0,Semi-Furnished,Other,1.0,3100000,Builder_Floor
+600.0,2,2.0,Unfurnished,Other,1.0,4500000,Apartment
+360.0,1,1.0,Semi-Furnished,Other,1.0,1500000,Builder_Floor
+725.0,2,2.0,Furnished,Other,1.0,3000000,Apartment
+900.0,3,2.0,Semi-Furnished,Other,1.0,4900000,Builder_Floor
+750.0,2,2.0,Unfurnished,Other,1.0,3500000,Builder_Floor
+700.0,2,2.0,Semi-Furnished,Other,1.0,3000000,Builder_Floor
+950.0,3,2.0,Semi-Furnished,Other,1.0,7020000,Builder_Floor
+900.0,2,2.0,Semi-Furnished,Other,1.0,3500000,Builder_Floor
+1500.0,3,3.0,Semi-Furnished,Other,1.0,7000000,Builder_Floor
+500.0,2,1.0,Semi-Furnished,Other,2.0,7000000,Apartment
+1035.0,3,3.0,Semi-Furnished,Other,1.0,4500000,Builder_Floor
+825.0,3,2.0,Semi-Furnished,Other,1.0,5990000,Builder_Floor
+1300.0,3,3.0,Semi-Furnished,Other,1.0,4400000,Builder_Floor
+765.0,2,2.0,Unfurnished,Other,4.0,2500000,Builder_Floor
+580.0,1,1.0,Semi-Furnished,Other,1.0,1600000,Builder_Floor
+1750.0,3,3.0,Semi-Furnished,Other,1.0,6500000,Builder_Floor
+850.0,2,2.0,Semi-Furnished,Mehrauli,1.0,2800000,Apartment
+800.0,3,3.0,Semi-Furnished,Mehrauli,1.0,4500000,Apartment
+405.0,1,1.0,Furnished,Mehrauli,1.0,1800000,Apartment
+1350.0,3,3.0,Unfurnished,Mehrauli,1.0,8500000,Builder_Floor
+1350.0,3,3.0,Unfurnished,Mehrauli,1.0,8500000,Apartment
+450.0,1,1.0,Unfurnished,Mehrauli,1.0,1700000,Builder_Floor
+1300.0,3,3.0,Semi-Furnished,Other,2.0,7000000,Builder_Floor
+1050.0,3,2.0,Unfurnished,Mehrauli,2.0,5600000,Builder_Floor
+1675.0,4,3.0,Furnished,Mehrauli,2.0,13500000,Builder_Floor
+1250.0,3,3.0,Unfurnished,Mehrauli,2.0,8500000,Builder_Floor
+1080.0,3,3.0,Unfurnished,Mehrauli,5.0,6000000,Apartment
+1170.0,3,3.0,Unfurnished,Other,5.0,7200000,Builder_Floor
+1250.0,3,2.0,Semi-Furnished,Other,1.0,6500000,Apartment
+1500.0,3,3.0,Semi-Furnished,Other,1.0,8400000,Apartment
+1350.0,3,3.0,Unfurnished,Mehrauli,1.0,8500000,Apartment
+855.0,2,2.0,Semi-Furnished,Mehrauli,1.0,4000000,Builder_Floor
+540.0,1,1.0,Unfurnished,Mehrauli,1.0,1700000,Builder_Floor
+1044.0983,3,2.0,Unfurnished,Mehrauli,1.0,6000000,Builder_Floor
+405.0,1,1.0,Semi-Furnished,Mehrauli,1.0,1600000,Apartment
+500.0,1,2.0,Semi-Furnished,Mehrauli,1.0,2100000,Apartment
+450.0,1,1.0,Furnished,Mehrauli,1.0,1700000,Apartment
+405.0,1,1.0,Unfurnished,Other,1.0,1500000,Apartment
+405.0,1,1.0,Unfurnished,Mehrauli,1.0,1200000,Builder_Floor
+450.0,1,1.0,Unfurnished,Other,1.0,1650000,Apartment
+173.0,2,2.0,Unfurnished,Mehrauli,1.0,3500000,Builder_Floor
+1100.0,3,2.0,Unfurnished,Mehrauli,1.0,8500000,Builder_Floor
+600.0,2,2.0,Unfurnished,Mehrauli,1.0,3200000,Builder_Floor
+770.0,2,2.0,Semi-Furnished,Other,1.0,3790000,Builder_Floor
+810.0,3,2.0,Semi-Furnished,Other,1.0,4200000,Apartment
+710.0,2,2.0,Unfurnished,Other,1.0,2900000,Apartment
+950.0,3,2.0,Unfurnished,Other,1.0,5000000,Builder_Floor
+450.0,1,1.0,Semi-Furnished,Other,1.0,2100000,Builder_Floor
+500.0,2,2.0,Semi-Furnished,Other,1.0,3200000,Apartment
+600.0,2,1.0,Semi-Furnished,Other,1.0,3000000,Apartment
+420.0,1,1.0,Unfurnished,Other,1.0,2300000,Builder_Floor
+900.0,3,2.0,Semi-Furnished,Other,1.0,5900000,Builder_Floor
+945.0,3,2.0,Semi-Furnished,Other,1.0,5500000,Apartment
+565.0,2,2.0,Unfurnished,Other,1.0,3500000,Builder_Floor
+450.0,2,1.0,Semi-Furnished,Other,1.0,1700000,Apartment
+430.0,1,1.0,Unfurnished,Other,1.0,1850000,Builder_Floor
+550.0,2,2.0,Unfurnished,Other,1.0,2300000,Builder_Floor
+810.0,3,2.0,Furnished,Other,1.0,3800000,Builder_Floor
+720.0,3,2.0,Semi-Furnished,Other,1.0,4500000,Builder_Floor
+360.0,2,1.0,Semi-Furnished,Other,1.0,2200000,Apartment
+820.0,3,2.0,Semi-Furnished,Other,1.0,5200000,Builder_Floor
+459.0,2,2.0,Semi-Furnished,Other,1.0,2200000,Builder_Floor
+450.0,1,1.0,Furnished,Other,2.0,2200000,Apartment
+900.0,2,2.0,Semi-Furnished,Other,2.0,3800000,Apartment
+360.0,1,1.0,Unfurnished,Other,1.0,1800000,Apartment
+559.7228,2,2.0,Furnished,Other,3.0,2850000,Apartment
+350.0,1,1.0,Unfurnished,Other,3.0,2500000,Apartment
+379.0,1,1.0,Unfurnished,Other,1.0,1600000,Builder_Floor
+236.8058,1,1.0,Unfurnished,Other,1.0,2000000,Apartment
+445.0,1,1.0,Unfurnished,Other,1.0,1500000,Apartment
+452.0838,2,1.0,Furnished,Other,1.0,3000000,Apartment
+350.0,1,1.0,Unfurnished,Other,1.0,1490000,Apartment
+437.0,1,1.0,Furnished,Other,1.0,3500000,Apartment
+61.0,3,3.0,Unfurnished,Other,1.0,4000000,Apartment
+495.0,2,2.0,Unfurnished,Other,1.0,1750000,Builder_Floor
+900.0,2,2.0,Unfurnished,Other,1.0,4600000,Apartment
+350.0,1,1.0,Semi-Furnished,Other,1.0,1800000,Builder_Floor
+585.0,2,2.0,Unfurnished,Other,1.0,1900000,Builder_Floor
+198.0,1,1.0,Furnished,Other,1.0,1000000,Apartment
+2077.4327,1,1.0,Unfurnished,Other,1.0,1000000,Builder_Floor
+50.0,1,1.0,Semi-Furnished,Other,1.0,3500000,Apartment
+990.0,3,2.0,Furnished,Other,1.0,5000000,Builder_Floor
+425.0,1,1.0,Unfurnished,Other,1.0,2200000,Apartment
+850.0,2,2.0,Unfurnished,Malviya Nagar,2.0,8500000,Builder_Floor
+750.0,2,2.0,Unfurnished,Malviya Nagar,2.0,11500000,Builder_Floor
+800.0,2,2.0,Semi-Furnished,Malviya Nagar,1.0,12000000,Builder_Floor
+550.0,2,2.0,Semi-Furnished,Malviya Nagar,2.0,10700000,Builder_Floor
+700.0,2,2.0,Semi-Furnished,Malviya Nagar,1.0,9000000,Apartment
+900.0,3,2.0,Semi-Furnished,Other,1.0,6200000,Apartment
+100.0,3,2.0,Semi-Furnished,Malviya Nagar,1.0,17000000,Builder_Floor
+900.0,2,3.0,Semi-Furnished,Other,2.0,12500000,Builder_Floor
+1500.0,2,2.0,Semi-Furnished,Malviya Nagar,3.0,13000000,Builder_Floor
+650.0,3,2.0,Unfurnished,Other,3.0,4200000,Builder_Floor
+2000.0,4,4.0,Semi-Furnished,Malviya Nagar,2.0,36000000,Builder_Floor
+500.0,1,1.0,Unfurnished,Malviya Nagar,2.0,2300000,Apartment
+1125.0,2,2.0,Unfurnished,Malviya Nagar,2.0,8100000,Builder_Floor
+1300.0,3,3.0,Semi-Furnished,Malviya Nagar,1.0,10000000,Builder_Floor
+1290.0,3,2.0,Semi-Furnished,Malviya Nagar,2.0,20000000,Builder_Floor
+1350.0,3,3.0,Semi-Furnished,Other,2.0,30000000,Builder_Floor
+1400.0,3,3.0,Semi-Furnished,Other,1.0,30000000,Builder_Floor
+1700.0,3,3.0,Unfurnished,Other,2.0,30000000,Builder_Floor
+900.0,2,2.0,Furnished,"Dilshad Colony, Dilshad Garden",2.0,6900000,Builder_Floor
+400.0,1,1.0,Unfurnished,"Dilshad Colony, Dilshad Garden",1.0,3600000,Builder_Floor
+900.0,3,2.0,Semi-Furnished,"Dilshad Colony, Dilshad Garden",2.0,13500000,Apartment
+1000.0,3,2.0,Furnished,Other,1.0,9200000,Apartment
+405.0,1,1.0,Unfurnished,"Dilshad Colony, Dilshad Garden",1.0,2500000,Apartment
+1700.0,3,2.0,Furnished,Other,1.0,17000000,Apartment
+800.0,3,2.0,Semi-Furnished,Other,1.0,9030000,Apartment
+750.0,2,1.0,Semi-Furnished,Other,2.0,6500000,Apartment
+460.0,2,1.0,Unfurnished,"Dilshad Colony, Dilshad Garden",2.0,3300000,Builder_Floor
+370.0,1,1.0,Unfurnished,"Dilshad Colony, Dilshad Garden",2.0,2400000,Builder_Floor
+1800.0,3,3.0,Semi-Furnished,"Dilshad Colony, Dilshad Garden",1.0,15000000,Builder_Floor
+1080.0,3,1.0,Unfurnished,Other,1.0,7000000,Apartment
+350.0,1,1.0,Unfurnished,Other,1.0,4200000,Apartment
+500.0,2,1.0,Furnished,Other,1.0,5800000,Apartment
+900.0,3,2.0,Semi-Furnished,"Dilshad Colony, Dilshad Garden",1.0,4800000,Apartment
+800.0,2,2.0,Semi-Furnished,"Dilshad Colony, Dilshad Garden",1.0,7500000,Apartment
+350.0,1,1.0,Unfurnished,Other,1.0,3000000,Apartment
+430.556,1,1.0,Unfurnished,Other,1.0,4300000,Apartment
+500.0,1,1.0,Semi-Furnished,"Dilshad Colony, Dilshad Garden",1.0,2600000,Builder_Floor
+1450.0,2,2.0,Unfurnished,Other,1.0,7000000,Apartment
+800.0,2,2.0,Unfurnished,"Dilshad Colony, Dilshad Garden",1.0,6000000,Builder_Floor
+1000.0,2,2.0,Semi-Furnished,"Dilshad Colony, Dilshad Garden",1.0,6700000,Apartment
+1000.0,3,3.0,Furnished,Other,1.0,9500000,Apartment
+1600.0,3,2.0,Semi-Furnished,Other,1.0,17000000,Apartment
+1450.0,3,2.0,Furnished,Other,1.0,14000000,Apartment
+1450.0,3,3.0,Semi-Furnished,Other,1.0,11600000,Apartment
+1150.0,3,3.0,Semi-Furnished,Other,1.0,12000000,Apartment
+780.0,2,2.0,Semi-Furnished,Other,1.0,7500000,Apartment
+1300.0,3,2.0,Semi-Furnished,Other,2.0,9800000,Apartment
+1350.0,3,3.0,Semi-Furnished,Other,1.0,12000000,Apartment
+1200.0,3,2.0,Semi-Furnished,Other,1.0,12500000,Apartment
+1460.0,3,3.0,Semi-Furnished,Other,1.0,16500000,Apartment
+1460.0,3,3.0,Unfurnished,Other,1.0,12000000,Apartment
+1100.0,2,2.0,Unfurnished,Other,1.0,7200000,Apartment
+1500.0,3,3.0,Furnished,Other,2.0,15000000,Apartment
+1050.0,2,2.0,Semi-Furnished,Other,1.0,10000000,Apartment
+1350.0,3,3.0,Semi-Furnished,Other,1.0,11000000,Apartment
+1500.0,2,2.0,Furnished,Other,2.0,24700000,Apartment
+976.0,2,2.0,Furnished,Other,2.0,24900000,Apartment
+540.0,2,1.0,Semi-Furnished,Other,1.0,3600000,Builder_Floor
+450.0,1,1.0,Semi-Furnished,Other,1.0,1700000,Builder_Floor
+900.0,2,2.0,Unfurnished,"Sukhdev Vihar, Okhla",1.0,11000000,Apartment
+979.5149,2,2.0,Unfurnished,Other,1.0,24800000,Apartment
+945.0,2,2.0,Semi-Furnished,Other,1.0,24900000,Apartment
+976.0,2,2.0,Unfurnished,Other,2.0,24900000,Apartment
+1531.0,2,2.0,Unfurnished,Other,2.0,25900000,Apartment
+1000.0,2,2.0,Unfurnished,"Sukhdev Vihar, Okhla",2.0,11700000,Builder_Floor
+750.0,3,2.0,Furnished,"Sukhdev Vihar, Okhla",2.0,13500000,Apartment
+900.0,3,2.0,Furnished,Other,1.0,5500000,Builder_Floor
+1512.0,2,2.0,Unfurnished,Other,1.0,30000000,Apartment
+35.0,3,2.0,Semi-Furnished,Other,2.0,4950000,Apartment
+1500.0,3,2.0,Semi-Furnished,"Sukhdev Vihar, Okhla",1.0,16000000,Apartment
+2907.0,4,4.0,Semi-Furnished,"Sukhdev Vihar, Okhla",1.0,30000000,Apartment
+2210.0,4,3.0,Semi-Furnished,"Sukhdev Vihar, Okhla",1.0,41000000,Builder_Floor
+750.0,2,2.0,Semi-Furnished,Other,1.0,3800000,Builder_Floor
+588.0,2,2.0,Unfurnished,Other,2.0,1800000,Apartment
+540.0,2,1.0,Unfurnished,Other,2.0,1500000,Builder_Floor
+1100.0,3,3.0,Semi-Furnished,"Sukhdev Vihar, Okhla",2.0,12500000,Apartment
+550.0,2,1.0,Semi-Furnished,Other,2.0,1600000,Apartment
+750.0,3,2.0,Semi-Furnished,Other,1.0,2400000,Builder_Floor
+1260.0,3,2.0,Semi-Furnished,Other,1.0,7000000,Builder_Floor
+675.0,2,2.0,Unfurnished,Other,1.0,3100000,Builder_Floor
+810.0,2,2.0,Semi-Furnished,"Sukhdev Vihar, Okhla",1.0,14500000,Apartment
+2000.0,4,4.0,Semi-Furnished,"Sukhdev Vihar, Okhla",1.0,27500000,Builder_Floor
+1775.0,3,3.0,Semi-Furnished,"The Amaryllis, Karol Bagh",1.0,25500000,Apartment
+1135.0,3,3.0,Furnished,"The Amaryllis, Karol Bagh",2.0,25000000,Apartment
+1252.0,2,2.0,Semi-Furnished,"The Amaryllis, Karol Bagh",1.0,18500000,Apartment
+2000.0,4,4.0,Semi-Furnished,"The Amaryllis, Karol Bagh",1.0,39700000,Apartment
+530.0,4,1.0,Semi-Furnished,Other,1.0,6800000,Apartment
+1332.0,3,2.0,Semi-Furnished,Other,1.0,6540000,Builder_Floor
+1017.0,3,3.0,Semi-Furnished,"The Amaryllis, Karol Bagh",1.0,22000000,Apartment
+1775.0,3,3.0,Semi-Furnished,"The Amaryllis, Karol Bagh",1.0,25500000,Apartment
+987.0,2,2.0,Semi-Furnished,"The Amaryllis, Karol Bagh",1.0,17000000,Apartment
+1912.0,3,3.0,Semi-Furnished,"The Amaryllis, Karol Bagh",1.0,27500000,Apartment
+1500.0,3,3.0,Unfurnished,Other,2.0,16000000,Apartment
+1280.0,3,3.0,Furnished,Other,2.0,15000000,Builder_Floor
+1775.0,3,3.0,Semi-Furnished,"The Amaryllis, Karol Bagh",1.0,25500000,Apartment
+675.0,2,2.0,Semi-Furnished,Other,1.0,10000000,Builder_Floor
+576.0,2,2.0,Unfurnished,Other,1.0,5000000,Apartment
+1206.0,3,3.0,Semi-Furnished,Other,1.0,20000000,Builder_Floor
+1143.0,2,2.0,Unfurnished,Other,1.0,16000000,Apartment
+345.0,1,1.0,Semi-Furnished,Other,1.0,5500000,Builder_Floor
+720.0,2,1.0,Semi-Furnished,Other,1.0,7000000,Builder_Floor
+468.0,2,2.0,Unfurnished,Other,1.0,4100000,Builder_Floor
+1600.0,3,3.0,Semi-Furnished,Other,1.0,24000000,Builder_Floor
+950.0,2,2.0,Furnished,Other,1.0,12500000,Apartment
+535.0,2,1.0,Furnished,Other,1.0,3900000,Apartment
+1200.0,3,2.0,Semi-Furnished,Other,1.0,14500000,Builder_Floor
+1501.0,3,2.0,Semi-Furnished,"The Amaryllis, Karol Bagh",1.0,20000000,Apartment
+1135.0,3,3.0,Furnished,"The Amaryllis, Karol Bagh",2.0,24500000,Apartment
+1200.0,3,2.0,Semi-Furnished,"The Amaryllis, Karol Bagh",1.0,20900000,Apartment
+2200.0,3,3.0,Semi-Furnished,"The Amaryllis, Karol Bagh",1.0,43100000,Apartment
+2800.0,4,4.0,Unfurnished,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",2.0,40000000,Apartment
+1646.0,3,3.0,Unfurnished,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",1.0,20000000,Apartment
+900.0,2,2.0,Semi-Furnished,Other,1.0,6700000,Apartment
+1250.0,3,2.0,Semi-Furnished,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",1.0,16000000,Apartment
+900.0,3,2.0,Unfurnished,Other,1.0,8000000,Builder_Floor
+1590.0,3,2.0,Unfurnished,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",2.0,25000000,Apartment
+990.0,3,2.0,Unfurnished,Other,2.0,25000000,Apartment
+2282.0,4,5.0,Unfurnished,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",2.0,37500000,Apartment
+1260.0,3,3.0,Semi-Furnished,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",1.0,25000000,Apartment
+1457.0,3,3.0,Unfurnished,Other,1.0,23000000,Apartment
+1400.0,3,2.0,Semi-Furnished,Other,2.0,17500000,Apartment
+2175.0,4,4.0,Unfurnished,Other,1.0,44000000,Apartment
+1450.0,3,3.0,Semi-Furnished,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",2.0,15000000,Apartment
+2800.0,4,5.0,Semi-Furnished,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",2.0,42500000,Apartment
+861.112,2,2.0,Furnished,Other,2.0,5000000,Builder_Floor
+2282.0,4,5.0,Unfurnished,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",2.0,38000000,Apartment
+1753.0,3,3.0,Unfurnished,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",1.0,19000000,Apartment
+2659.0,4,5.0,Unfurnished,Other,3.0,43500000,Apartment
+1550.0,3,2.0,Unfurnished,Other,3.0,19500000,Apartment
+1470.0,3,2.0,Semi-Furnished,"DLF Capital Greens, New Moti Nagar, Kirti Nagar",2.0,14200000,Apartment
+702.0,3,2.0,Semi-Furnished,Other,2.0,14200000,Apartment
+1138.0,2,2.0,Semi-Furnished,Other,2.0,13500000,Apartment
+1800.0,3,4.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,19000000,Apartment
+600.0,1,1.0,Unfurnished,Other,2.0,7000000,Apartment
+1250.0,3,3.0,Unfurnished,Other,1.0,5800000,Builder_Floor
+600.0,3,2.0,Semi-Furnished,Other,1.0,8000000,Builder_Floor
+1600.0,3,4.0,Unfurnished,Sheikh Sarai Phase 1,1.0,18800000,Apartment
+1100.0,3,2.0,Semi-Furnished,Other,1.0,6000000,Builder_Floor
+450.0,1,1.0,Unfurnished,Other,1.0,2200000,Apartment
+855.0,3,2.0,Semi-Furnished,Other,1.0,6500000,Builder_Floor
+1291.668,3,2.0,Unfurnished,Sheikh Sarai Phase 1,1.0,23500000,Apartment
+1300.0,2,2.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,16000000,Apartment
+1350.0,3,3.0,Unfurnished,Sheikh Sarai Phase 1,2.0,20000000,Apartment
+900.0,2,2.0,Unfurnished,Sheikh Sarai Phase 1,2.0,5500000,Builder_Floor
+850.0,2,2.0,Semi-Furnished,Sheikh Sarai Phase 1,1.0,13500000,Apartment
+1650.0,3,3.0,Semi-Furnished,Sheikh Sarai Phase 1,1.0,22500000,Builder_Floor
+650.0,2,2.0,Unfurnished,Other,1.0,3800000,Apartment
+630.0,2,2.0,Semi-Furnished,Other,1.0,4600000,Builder_Floor
+1250.0,2,1.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,17500000,Apartment
+1800.0,4,3.0,Furnished,Other,2.0,5500000,Builder_Floor
+1500.0,3,3.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,22500000,Builder_Floor
+1100.0,2,2.0,Semi-Furnished,Sheikh Sarai Phase 1,1.0,12500000,Apartment
+1400.0,3,2.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,19000000,Apartment
+1300.0,2,2.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,15500000,Apartment
+1100.0,2,2.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,13500000,Apartment
+1600.0,3,3.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,21000000,Apartment
+2572.0,3,3.0,Furnished,Other,4.0,35000000,Apartment
+2100.0,3,3.0,Semi-Furnished,Other,1.0,25000000,Builder_Floor
+1620.0,3,3.0,Semi-Furnished,Other,1.0,29000000,Builder_Floor
+2250.0,3,3.0,Semi-Furnished,Other,2.0,20500000,Apartment
+2250.0,4,4.0,Unfurnished,Other,2.0,37500000,Builder_Floor
+800.0,2,2.0,Semi-Furnished,Other,2.0,7500000,Apartment
+1450.0,3,3.0,Semi-Furnished,Other,2.0,32500000,Builder_Floor
+1440.0,3,3.0,Unfurnished,Other,2.0,24500000,Builder_Floor
+1800.0,3,3.0,Semi-Furnished,Other,2.0,27500000,Builder_Floor
+195.0,3,3.0,Semi-Furnished,Other,1.0,28000000,Builder_Floor
+807.2925,2,1.0,Semi-Furnished,Other,1.0,8000000,Builder_Floor
+1000.0,2,2.0,Semi-Furnished,Other,1.0,7800000,Apartment
+900.0,2,2.0,Semi-Furnished,Other,1.0,15000000,Builder_Floor
+1800.0,3,3.0,Furnished,Other,1.0,27500000,Builder_Floor
+2340.0,4,4.0,Semi-Furnished,Other,1.0,26000000,Builder_Floor
+1350.0,3,3.0,Unfurnished,Other,1.0,23500000,Apartment
+464.0,3,1.0,Unfurnished,Other,1.0,4200000,Builder_Floor
+954.0,2,2.0,Unfurnished,Other,1.0,10000000,Builder_Floor
+1155.0,2,2.0,Semi-Furnished,Other,1.0,18500000,Builder_Floor
+1600.0,3,3.0,Semi-Furnished,Other,2.0,20000000,Apartment
+1400.0,3,3.0,Furnished,Other,1.0,18000000,Apartment
+1400.0,3,2.0,Unfurnished,Alaknanda,1.0,19000000,Apartment
+2700.0,4,4.0,Unfurnished,Other,2.0,36500000,Builder_Floor
+1100.0,2,2.0,Unfurnished,Alaknanda,2.0,15000000,Apartment
+1200.0,2,2.0,Semi-Furnished,Alaknanda,2.0,17500000,Apartment
+1400.0,2,2.0,Semi-Furnished,Alaknanda,2.0,14000000,Apartment
+1500.0,3,3.0,Semi-Furnished,Other,2.0,21000000,Apartment
+1320.0,3,2.0,Unfurnished,Alaknanda,2.0,15600000,Apartment
+1300.0,3,3.0,Unfurnished,Other,2.0,19000000,Apartment
+1150.0,2,2.0,Unfurnished,Other,1.0,16500000,Apartment
+1440.0,3,3.0,Unfurnished,Alaknanda,1.0,19000000,Apartment
+1400.0,2,2.0,Unfurnished,Other,1.0,16500000,Apartment
+450.0,1,1.0,Semi-Furnished,Alaknanda,1.0,3000000,Builder_Floor
+1300.0,2,2.0,Semi-Furnished,Other,1.0,15000000,Apartment
+1200.0,2,2.0,Unfurnished,Other,1.0,14300000,Apartment
+1300.0,3,2.0,Unfurnished,Other,1.0,18500000,Apartment
+1400.0,3,3.0,Furnished,Other,1.0,19000000,Apartment
+1400.0,3,3.0,Semi-Furnished,Alaknanda,1.0,19000000,Apartment
+800.0,2,2.0,Semi-Furnished,Other,1.0,8000000,Builder_Floor
+1150.0,2,3.0,Semi-Furnished,Other,2.0,16100000,Apartment
+900.0,3,3.0,Semi-Furnished,Other,1.0,6800000,Builder_Floor
+1070.0,3,2.0,Furnished,Other,1.0,6800000,Apartment
+1050.0,2,2.0,Unfurnished,Other,1.0,9000000,Apartment
+1000.0,2,2.0,Semi-Furnished,Other,1.0,18000000,Builder_Floor
+1550.0,3,3.0,Unfurnished,Other,2.0,27500000,Builder_Floor
+1300.0,3,2.0,Unfurnished,Other,1.0,13500000,Apartment
+810.0,2,2.0,Semi-Furnished,Other,1.0,14000000,Builder_Floor
+900.0,2,2.0,Furnished,Other,1.0,9000000,Builder_Floor
+1200.0,2,2.0,Unfurnished,Other,1.0,16000000,Apartment
+1000.0,2,3.0,Semi-Furnished,Other,1.0,11000000,Apartment
+720.0,2,2.0,Unfurnished,Other,1.0,5500000,Builder_Floor
+1800.0,3,3.0,Semi-Furnished,Other,2.0,43500000,Builder_Floor
+2000.0,3,3.0,Unfurnished,Other,2.0,37500000,Apartment
+1100.0,3,3.0,Unfurnished,Other,2.0,18500000,Apartment
+1750.0,3,3.0,Unfurnished,Other,2.0,35000000,Builder_Floor
+1200.0,2,2.0,Furnished,Other,1.0,27500000,Builder_Floor
+1500.0,3,4.0,Unfurnished,Other,2.0,45000000,Builder_Floor
+1800.0,3,4.0,Semi-Furnished,Other,2.0,47000000,Builder_Floor
+1600.0,3,4.0,Semi-Furnished,Other,2.0,27500000,Builder_Floor
+1700.0,3,3.0,Semi-Furnished,Other,1.0,36500000,Apartment
+1980.0,3,4.0,Unfurnished,Other,1.0,35000000,Apartment
+1250.0,3,3.0,Semi-Furnished,Other,1.0,24000000,Builder_Floor
+1450.0,3,3.0,Semi-Furnished,Other,1.0,45000000,Builder_Floor
+1600.0,3,3.0,Semi-Furnished,Chittaranjan Park,2.0,33500000,Builder_Floor
+1700.0,3,3.0,Semi-Furnished,Chittaranjan Park,2.0,47500000,Builder_Floor
+1116.0,3,3.0,Semi-Furnished,Chittaranjan Park,1.0,14700000,Builder_Floor
+1070.0,2,3.0,Semi-Furnished,Chittaranjan Park,1.0,18000000,Builder_Floor
+1200.0,3,3.0,Semi-Furnished,Chittaranjan Park,1.0,22500000,Builder_Floor
+1200.0,3,3.0,Unfurnished,Chittaranjan Park,1.0,22000000,Builder_Floor
+1200.0,3,3.0,Semi-Furnished,Other,1.0,22200000,Builder_Floor
+1450.0,3,3.0,Semi-Furnished,Chittaranjan Park,1.0,22500000,Builder_Floor
+1000.0,2,2.0,Semi-Furnished,Chittaranjan Park,1.0,7500000,Apartment
+2430.0,4,4.0,Furnished,Other,5.0,30000000,Builder_Floor
+945.0,2,1.0,Unfurnished,Chittaranjan Park,5.0,6500000,Apartment
+1650.0,3,3.0,Unfurnished,Chittaranjan Park,5.0,35000000,Builder_Floor
+1350.0,3,2.0,Semi-Furnished,Other,1.0,17500000,Builder_Floor
+1800.0,4,4.0,Semi-Furnished,Chittaranjan Park,2.0,40000000,Builder_Floor
+125.0,3,3.0,Semi-Furnished,Chittaranjan Park,2.0,11500000,Builder_Floor
+1440.0,3,3.0,Semi-Furnished,Chittaranjan Park,2.0,22500000,Builder_Floor
+1900.0,3,4.0,Semi-Furnished,Chittaranjan Park,2.0,28500000,Builder_Floor
+1800.0,3,3.0,Semi-Furnished,Chittaranjan Park,2.0,29000000,Builder_Floor
+1200.0,3,2.0,Semi-Furnished,Chittaranjan Park,1.0,15500000,Builder_Floor
+1800.0,3,3.0,Semi-Furnished,Other,1.0,26000000,Builder_Floor
+1200.0,3,3.0,Semi-Furnished,Chittaranjan Park,1.0,16500000,Builder_Floor
+1050.0,3,2.0,Semi-Furnished,Chittaranjan Park,3.0,12500000,Builder_Floor
+875.0,3,3.0,Semi-Furnished,Chittaranjan Park,3.0,17500000,Builder_Floor
+990.0,2,2.0,Unfurnished,Other,1.0,11500000,Builder_Floor
